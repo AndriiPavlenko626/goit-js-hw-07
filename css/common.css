@@ -79,7 +79,7 @@ li {
   color: #2e2f42;
   padding: 8px 16px;
 }
-/* finish task-1 */
+
 /* task-2 */
 .gallery {
   max-width: 1128px;
@@ -91,7 +91,7 @@ li {
 }
 
 
-/* finish task2 */
+
 /* task-3 */
 #name-input {
   border: 1px solid #808080;
@@ -124,7 +124,7 @@ h1 {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
-/* finish task-3 */
+
 /* task-4 */
 .login-form {
   display: flex;
